@@ -229,7 +229,6 @@ DiffSynth-Studio redesigns the inference and training pipelines for mainstream D
 
 ### Image Synthesis
 
-![Image](https://github.com/user-attachments/assets/c01258e2-f251-441a-aa1e-ebb22f02594d)
 
 #### Z-Image: [/docs/en/Model_Details/Z-Image.md](/docs/en/Model_Details/Z-Image.md)
 
@@ -519,8 +518,6 @@ Example code for FLUX.1 is available at: [/examples/flux/](/examples/flux/)
 </details>
 
 ### Video Synthesis
-
-https://github.com/user-attachments/assets/1d66ae74-3b02-40a9-acc3-ea95fc039314
 
 #### Wan: [/docs/en/Model_Details/Wan.md](/docs/en/Model_Details/Wan.md)
 
